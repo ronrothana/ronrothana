@@ -8,13 +8,11 @@ Welcome to my GitHub — a space where I learn, build, experiment, and grow in t
  🎥 Beyond code
 
 I share my tech learning journey and experiences on [YouTube](https://www.youtube.com/@ronrothanaa)<br/>
-
 I also post some fun vlogs because life isn’t only about code 😄 [ClickHere!](https://youtu.be/iWbOjosspWg?si=7IeY37YM61AOQsC0)<br/>
 
 🌍 Exchange & International Experience
 
-Exchange Student at Osaka Metropolitan University (Japan)
-
+Exchange Student at Osaka Metropolitan University (Japan) <br/>
 Represented Cambodia in academic presentations and public discussions, gaining a global perspective on education, technology, and social impact. [Check it out](https://www.omu.ac.jp/expo2025/info/reports/entry-92505.html)<br/>
 
  # 💻 Tech Stack
@@ -35,8 +33,6 @@ Represented Cambodia in academic presentations and public discussions, gaining a
 
  💬 Let’s Connect
 
-I’m always open to learning, sharing ideas, and collaborating on meaningful projects.
-
-💼 LinkedIn: https://www.linkedin.com/in/ron-rothana-b6b016343/
-
-📧 Email: ronrothana11@gmail.com
+I’m always open to learning, sharing ideas, and collaborating on meaningful projects. <br/>
+💼 LinkedIn: https://www.linkedin.com/in/ron-rothana-b6b016343/ <br/>
+📧 Email: ronrothana11@gmail.com 
