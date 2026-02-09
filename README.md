@@ -29,7 +29,6 @@ Represented Cambodia in academic presentations and public discussions, gaining a
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
   
- [![Rothana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronrothana&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
  💬 Let’s Connect
 
